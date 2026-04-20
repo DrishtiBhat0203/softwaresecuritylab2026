@@ -34,7 +34,7 @@ if(isset($_POST['login'])) {
 
 <style>
 * {
-    box-sizing: border-box;  /* 🔥 FIX for button issue */
+    box-sizing: border-box; 
 }
 
 body {
